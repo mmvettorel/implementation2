@@ -2,7 +2,7 @@ package com.test;
 
 import javax.management.RuntimeErrorException;
 
-public class FactorialAlt2Impl implements IFactorial {
+public class FactorialImpl implements IFactorial {
 
 	@Override
 	public long calcular(int numero) {
